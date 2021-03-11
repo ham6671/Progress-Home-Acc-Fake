@@ -7,8 +7,10 @@ const fs = require("fs");
 const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
-const client = new Discord.Client();
-const client2 = new Discord.Client();
+const client = new Discord.Client(ODE3NzkyMjk1ODg0Njg1MzU0.YEOq4Q.WD7-HbO1eowGV86nEuqAjVPcl0o
+);
+const client2 = new Discord.Client(ODE3NzkxMjA1MjIzODI1NDE5.YEOqBw.giCWVoxvXxg3sj9Nt60rW9TGAVs
+);
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
 const client5 = new Discord.Client();
